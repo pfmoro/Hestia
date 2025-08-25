@@ -32,4 +32,4 @@ O projeto é dividido em três repositórios independentes, cada um focado em um
 
 Este repositório consolida a parte de coleta de dados ambientais, atuando como o "olho" do sistema. Ele inclui o firmware para os sensores e a lógica para enviar os dados para a API do ThingSpeak, que por sua vez, são consumidos pelo módulo de alertas inteligentes.
 
--   **Link do Repositório:** `https://github.com/pfmoro/HestiaSensores`
+-   **Link do Repositório:** `https://github.com/pfmoro/Hestia_Sensores`
